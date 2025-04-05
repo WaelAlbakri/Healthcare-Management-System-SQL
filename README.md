@@ -1,6 +1,6 @@
 # 🏥 Healthcare Management System (SQL Project)
 
-A complete SQL-based data system simulating a real-world healthcare management workflow. Designed and developed by **Wael Ahmed** to demonstrate relational modeling, data integrity, and data analysis capabilities using SQL.
+A complete SQL-based data system simulating a real-world healthcare management workflow.
 
 ---
 
@@ -15,7 +15,7 @@ This system is designed to store and analyze healthcare data involving patients,
 | File            | Description                                |
 |-----------------|--------------------------------------------|
 | schema.sql      | Defines all database tables and relationships |
-| sample_data.sql | Inserts realistic demo data                |
+| data.sql        | Inserts realistic demo data                |
 | queries.sql     | Demonstrates SELECT queries and reporting  |
 | README.md       | Project overview for GitHub                |
 
@@ -36,7 +36,7 @@ This system is designed to store and analyze healthcare data involving patients,
 
 1. Open MySQL or any SQL environment.
 2. Run `schema.sql` to create all tables.
-3. Run `sample_data.sql` to populate test data.
+3. Run `data.sql` to populate test data.
 4. Run `queries.sql` to test and analyze data.
 
 ---
