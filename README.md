@@ -24,7 +24,7 @@ It showcases practical SQL skills including:
 | `data.sql`     | Inserts realistic sample data for demo and testing  |
 | `queries.sql`  | Includes SELECT, JOIN, GROUP BY, and subqueries     |
 | `README.md`    | Project documentation and usage instructions        |
-| `ERD.png`      | Visual entity relationship diagram (created in Lucidchart) |
+| `healthcare_ERD.png`      | Visual entity relationship diagram (created in Lucidchart) |
 
 ---
 
