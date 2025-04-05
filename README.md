@@ -17,7 +17,7 @@ This system is designed to store and analyze healthcare data involving patients,
 | schema.sql      | Defines all database tables and relationships |
 | data.sql        | Inserts realistic demo data                |
 | queries.sql     | Demonstrates SELECT queries and reporting  |
-| README.md       | Project overview                |
+| README.md       | Project Overview                |
 
 ---
 
