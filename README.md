@@ -56,7 +56,7 @@ It showcases practical SQL skills including:
 
 ---
 
-## 📊 Sample ERD
+## 📊 ERD
 
 ![ER Diagram](healthcare_ERD.png)
 
